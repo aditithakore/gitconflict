@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+hi,my name is nidhi
+this file is created by aditi
+this file is modified by nidgi
+=======
+hi,my name is ankita
+this file is created by aditi
+this file is modfied by ankita 
+>>>>>>> branch2
